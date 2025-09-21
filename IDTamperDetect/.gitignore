@@ -1,0 +1,16 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Data/uploads
+uploads/
+Data/
+
+# IDE files
+.vscode/
+.idea/
