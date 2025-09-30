@@ -24,8 +24,9 @@ It detects movement through your laptop’s built-in camera (or an external webc
 
 ## Future Enhancements
 - Save detected motion frames or recordings automatically
--Add sensitivity settings for different environments
--Integrate AI-based object recognition
--Send alerts on motion detection
--Add voice or sound alerts
--Detect motion from multiple cameras simultaneously
+- Add sensitivity settings for different environments
+- Integrate AI-based object recognition
+- Send alerts on motion detection
+- Add voice or sound alerts
+- Detect motion from multiple cameras simultaneously
+
